@@ -46,4 +46,4 @@ Download:[releases](https://github.com/TheKingOfDuck/Copy2Java/releases/download
 
 
 
-![image-20200413022944759](file://F:/gitPage/post-images/copy2java//image-20200413022944759.png)
+![image-20200413022944759](https://thekingofduck.github.io/post-images/copy2java//image-20200413022944759.png)
