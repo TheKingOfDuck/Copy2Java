@@ -63,7 +63,7 @@ public class requestMapper {
                 "        {reqMethod};\n" +
                 "\n" +
                 "        System.out.println(String.format(\"StatCode:%s\",res.code()));\n" +
-                "        System.out.println(String.format(\"StatCode:%s\",res.body()));\n" +
+                "        System.out.println(String.format(\"Response:%s\",res.body()));\n" +
                 "    }\n" +
                 "}\n";
 
