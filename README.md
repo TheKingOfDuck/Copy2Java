@@ -3,6 +3,8 @@
 
 Download:[releases](https://github.com/TheKingOfDuck/Copy2Java/releases/download/1.1/copy2Java-1.1.jar)
 
+More:[在Burp中一键生成Java代码](https://blog.gzsec.org/post/Copy2Java/)
+
 ### 使用
 
 
